@@ -129,31 +129,7 @@ com.example.wallora/
 
 ---
 
-## 📤 How to Upload / Push to GitHub
-
-If you are uploading this codebase to GitHub for the first time, execute the following commands in your terminal inside the project root:
-
-```bash
-# 1. Initialize Git repository
-git init
-
-# 2. Add all project files
-git add .
-
-# 3. Commit changes
-git commit -m "Initial commit: Wallora Android Application"
-
-# 4. Set main branch name
-git branch -M main
-
-# 5. Add remote GitHub repository
-git remote add origin https://github.com/najeebahmad07/wallora.git
-
-# 6. Push code to GitHub
-git push -u origin main
-```
-
----
+ 
 
 ## 👨‍💻 Developer & Credits
 
