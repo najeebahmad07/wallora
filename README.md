@@ -42,6 +42,11 @@ Inspired by modern glassmorphism design trends, Wallora delivers a smooth mobile
 - 🌓 **Adaptive Light & Dark Mode**: Modern color scheme supporting system, light, and dark theme preferences.
 
 ---
+<img width="1120" height="2240" alt="image_20261117_174525" src="https://github.com/user-attachments/assets/140a3cbe-4a17-431b-9db1-53c46e965e92" />
+<img width="1120" height="2240" alt="image_20261117_174523" src="https://github.com/user-attachments/assets/fd611986-57ee-4248-b63e-be3f135d97ab" />
+<img width="1120" height="2240" alt="image_20261117_174518" src="https://github.com/user-attachments/assets/6e73689d-5c42-4b47-9862-73be12e855ee" />
+<img width="1120" height="2240" alt="image_20261117_174527" src="https://github.com/user-attachments/assets/fddb4ad6-23af-4467-b2c4-681072a15654" />
+<img width="1120" height="2240" alt="image_20261117_174522" src="https://github.com/user-attachments/assets/5d2b5e04-8b86-49a3-863c-4a02ea35baa9" />
 
 ## 📸 Screen Architecture
 
