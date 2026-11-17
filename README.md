@@ -30,16 +30,6 @@ Inspired by modern glassmorphism design trends, Wallora delivers a smooth mobile
 
 ---
 
-## 🏷️ Recommended GitHub Topics
-
-When uploading to GitHub, add these topics to your repository settings (`About` > ⚙️ `Edit repository details`):
-
-```text
-android, kotlin, jetpack-compose, wallpaper-app, unsplash-api, material3, material-design, mobile-app, android-architecture, mvvm, coroutines, datastore, wallpaper-manager, media-store, ui-ux, developed-by-najeeb
-```
-
----
-
 ## ✨ Key Features
 
 - 🎨 **Floating Glassmorphism Navigation Bar**: Translucent floating bottom container with 6 fully functional tabs (**Home**, **Image Search**, **Wallpaper**, **About**, **Contact**, **Source Code**).
