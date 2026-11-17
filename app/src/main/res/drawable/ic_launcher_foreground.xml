@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Phone / Wallpaper Frame -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:pathData="M34,22 h40 a10,10 0 0 1 10,10 v44 a10,10 0 0 1 -10,10 h-40 a10,10 0 0 1 -10,-10 v-44 a10,10 0 0 1 10,-10 z" />
+
+    <!-- Notch -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,25 h12 a2,2 0 0 1 2,2 v1 a2,2 0 0 1 -2,2 h-12 a2,2 0 0 1 -2,-2 v-1 a2,2 0 0 1 2,-2 z" />
+
+    <!-- Coral Sun -->
+    <path
+        android:fillColor="#FF827D"
+        android:pathData="M54,44m-9,0a9,9 0 1,0 18,0a9,9 0 1,0 -18,0" />
+
+    <!-- Mountain Peaks inside frame -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,76 L44,54 L54,66 L64,48 L78,76 Z" />
+
+    <!-- Secondary Mountain Overlay -->
+    <path
+        android:fillColor="#8EAEF7"
+        android:pathData="M54,66 L64,48 L78,76 L64,76 Z" />
+
+</vector>
